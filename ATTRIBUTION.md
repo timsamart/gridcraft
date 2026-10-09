@@ -40,3 +40,11 @@ Generated-in-code art is original and has no file to list: the UI icon set (`cra
 | `docs/images/pivot.png` | GridCraft contributors | screenshot of GridCraft rendered offscreen (`crates/ui-egui/examples/snapshot.rs`) showing an original sample workbook | MIT OR Apache-2.0 | README screenshot; no third-party content |
 | `docs/images/format-chart.png` | GridCraft contributors | screenshot of GridCraft rendered offscreen (`crates/ui-egui/examples/snapshot.rs`) showing an original sample workbook | MIT OR Apache-2.0 | README screenshot; no third-party content |
 | `docs/images/page-break.png` | GridCraft contributors | screenshot of GridCraft rendered offscreen (`crates/ui-egui/examples/snapshot.rs`) showing an original sample workbook | MIT OR Apache-2.0 | README screenshot; no third-party content |
+
+## Independent custom desktop icons
+
+| Path | Title | Creator | Source | Licence | Added | Modifications |
+|---|---|---|---|---|---|---|
+| `custom-icons/` | GridCraft custom shortcut icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work; `custom-icons/generation-prompt.txt` | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted from one sheet; resized and packaged with Pillow |
+| `custom-icons/gridcraft.png` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
+| `custom-icons/gridcraft.ico` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
